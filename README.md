@@ -1,2 +1,4 @@
 # otus-network-basic
-Сourse Network Engineer. Basic
+[OTUS. Курс "Сетевой инженер. Базовый уровень"](https://otus.ru/lessons/setevoy-inzhener-basic/)
+
+- [Практические работы](\labs)
